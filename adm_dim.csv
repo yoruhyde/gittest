@@ -1,0 +1,7 @@
+bdgt_dim,overall,name1,dim
+dma1_id,all_id,salchan_id,dma2_id
+dma2_id,0,sales1_id,chan3_id
+dma3_id,0,sales2_id,0
+chan1_id,0,sales3_id,0
+chan2_id,0,0,0
+chan3_id,0,0,0
